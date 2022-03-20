@@ -1,0 +1,11 @@
+html, body, #root {
+  height: 100%;
+}
+
+body {
+  margin: 0;
+}
+
+.username_box label, .pwd_box label{
+    color: #fff !important;
+}
